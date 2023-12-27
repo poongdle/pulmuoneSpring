@@ -258,6 +258,31 @@
 
 ## 팀원 담당 페이지 소개
 <details open>
+<summary>이지현</summary>
+<div markdown="1"><br>
+🌟<strong>택배배송 주문</strong><br><br>
+  
+  - 주문서 작성<br>
+  - 주문서 작성 완료
+
+🌟<strong>마이페이지</strong><br>
+
+  - My녹즙(매일배송, 택배배송 관련 부분)<br>
+  - 매일배송 주문내역
+  - 매일배송 주문 내역 조회
+  - 매일배송 음용 중지
+  - 매일배송 음용 상품 변경
+  - 매일배송 음용 변경 내역
+  - 배일배송 스마트 영수증 내역
+  - 매일배송 스마트 영수증 조회
+  - 택배배송 주문내역<br>
+  - 택배배송 주문 취소<br>
+  - 택배배송 주문 내역 조회<br>
+  - 택배배송 배송 조회<br><br>
+</div>
+</details>
+
+<details open>
 <summary>고경림</summary>
 <div markdown="1">
 <h4>🌴 맞춤큐레이션</h4>
@@ -380,22 +405,4 @@
 - 제휴브랜드
 </div>
 <hr>
-</details>
-
-<details open>
-<summary>이지현</summary>
-<div markdown="1"><br>
-🌟<strong>택배배송 주문</strong><br><br>
-  
-  - 주문서 작성<br>
-  - 주문서 작성 완료 -> 확인
-
-🌟<strong>마이페이지</strong><br>
-
-  - My녹즙(택배 배송 관련 부분)<br>
-  - 택배배송 주문내역<br>
-  - 주문 취소<br>
-  - 주문 내역 조회<br>
-  - 배송 조회<br><br>
-</div>
 </details>
