@@ -260,6 +260,11 @@
 <details open>
 <summary>이지현</summary>
 <div markdown="1"><br>
+🌟<strong>매일배송 주문</strong><br><br>
+  
+  - 주문서 작성<br>
+  - 주문서 작성 완료
+  
 🌟<strong>택배배송 주문</strong><br><br>
   
   - 주문서 작성<br>
