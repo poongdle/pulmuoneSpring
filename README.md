@@ -257,16 +257,17 @@
 
 
 ## 팀원 담당 페이지 소개
+
 <details open>
 <summary>이지현</summary>
 <div markdown="1"><br>
 🌟<strong>매일배송 주문</strong><br><br>
   - 주문서 작성<br>
-  - 주문서 작성 완료
+  - 주문서 작성 완료<br>
   
 🌟<strong>택배배송 주문</strong><br><br>
   - 주문서 작성<br>
-  - 주문서 작성 완료
+  - 주문서 작성 완료<br>
 
 🌟<strong>마이페이지</strong><br>
 
@@ -284,7 +285,7 @@
   - 택배배송 배송 조회<br><br>
 </div>
 </details>
-
+<hr>
 <details open>
 <summary>고경림</summary>
 <div markdown="1">
